@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+   h1 {
+    background-color: rgb(163, 163, 239);
+    color: black;
+    text-align: center;
+  }
+  select {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  #list img{
+    width: 300px;
+    height: 300px;
+  }
