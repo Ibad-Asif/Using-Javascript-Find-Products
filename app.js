@@ -8,7 +8,7 @@ let mobilephones = {
         chargingPort: "C-type",
         price: "77,000 PKR",
         color: "Black",
-        image: "images/Iphone 11.jpeg",
+        image: "Images/Iphone 11.jpeg",
       },
       iphone12: {
         company: "Apple",
@@ -18,7 +18,7 @@ let mobilephones = {
         chargingPort: "C-type",
         price: "100,000 PKR",
         color: "Blue",
-        image: "images/Iphone 12.jpg",
+        image: "Images/Iphone 12.jpg",
       },
     },
     Samsung: {
@@ -30,7 +30,7 @@ let mobilephones = {
         chargingPort: "C-type",
         price: "50,000 PKR",
         color: "Grey",
-        image: "images/samsung a13.jpeg",
+        image: "Images/Samsung a13.jpeg",
       },
       galaxy_S20: {
         company: "Samsung",
@@ -40,7 +40,7 @@ let mobilephones = {
         chargingPort: "C-type",
         price: "120,000 PKR",
         color: "Dark Blue",
-        image: "images/Iphone 12.jpg",
+        image: "Images/Iphone 12.jpg",
       },
     },
     infinix: {
@@ -52,7 +52,7 @@ let mobilephones = {
         chargingPort: "C-type",
         price: "45,499 PKR",
         color: "Blue",
-        image: "images/Iphone 12.jpg",
+        image: "Images/Iphone 12.jpg",
       },
       note_30: {
         company: "infinix",
@@ -62,7 +62,7 @@ let mobilephones = {
         chargingPort: "C-type",
         price: "43,799 PKR",
         color: "Red",
-        image: "images/Iphone 12.jpg",
+        image: "Images/Iphone 12.jpg",
       },
     },
   };
